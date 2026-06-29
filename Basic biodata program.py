@@ -8,3 +8,5 @@ print("*******************")
 print("Name:", name)
 print("Age:", age)
 print("City:", city)
+
+print("Thank you for providing your biodata!")
