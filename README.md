@@ -1,2 +1,2 @@
 # Basic-Biodata-Entry
-Here is basic biodata entry program using python, pushing it to github to learn github.
+Everything you find is useless and better to ignore.
